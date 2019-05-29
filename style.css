@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 300px;
+    height: 250px;
+    owerflow: hidden;
+    position: relative;
+}
+.fix{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
