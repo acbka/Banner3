@@ -6,7 +6,7 @@
 .container{
     width: 300px;
     height: 250px;
-    owerflow: hidden;
+    overflow: hidden;
     position: relative;
 }
 .fix{
